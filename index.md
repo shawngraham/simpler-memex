@@ -1,1 +1,1 @@
-[memex](/website)
+[memex](/move-online)
