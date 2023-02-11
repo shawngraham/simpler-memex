@@ -1,1 +1,1 @@
-[memex](/move-online)
+[memex](move-online)
